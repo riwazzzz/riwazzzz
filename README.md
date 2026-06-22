@@ -36,13 +36,13 @@
   <tr>
     <td valign="top" width="75%">
 
-I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working toward a career in **data engineering**. I enjoy building data pipelines, wrangling messy datasets, and training models on real-world problems.
+I'm currently studying B.Sc. CSIT at St. Xavier's College, Maitighar, working toward a career in **data engineering**. I enjoy building data pipelines, wrangling messy datasets, and training models on real-world problems.
 
 <br/>
 
-**Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Kathmandu
+**Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Maitighar
 
-**Focus:** Data Engineering & Machine Learning
+**Focus:** Data Engineering & AI/ML
 
 **Learning:** Apache Spark, Airflow, dbt, Kafka
 
