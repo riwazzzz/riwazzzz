@@ -39,6 +39,7 @@
 I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working toward a career in **data engineering**. I enjoy building data pipelines, wrangling messy datasets, and training models on real-world problems.
 
 <br/>
+
 **Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Kathmandu
 
 **Focus:** Data Engineering & Machine Learning
