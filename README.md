@@ -8,10 +8,6 @@
 
 ## Connect with me
 
-<a href="https://github.com/riwazzzz">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://www.linkedin.com/in/riwazmahat/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -22,6 +18,10 @@
 &nbsp;
 <a href="mailto:riwazmahat@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.kaggle.com/riwazmahat">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 </div>
@@ -39,7 +39,6 @@
 I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working toward a career in **data engineering**. I enjoy building data pipelines, wrangling messy datasets, and training models on real-world problems.
 
 <br/>
-
 **Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Kathmandu
 
 **Focus:** Data Engineering & Machine Learning
@@ -81,6 +80,8 @@ I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working
       <br/><br/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
       <br/><br/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
     </td>
     <td align="center">
@@ -110,9 +111,17 @@ I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=riwazzzz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=ffffff&hide=contribs" height="160"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riwazzzz&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=ffffff&hide=c" height="160"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=riwazzzz&theme=chartreuse_dark"/>
+&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=riwazzzz&theme=chartreuse_dark&exclude=c"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riwazzzz&theme=chartreuse_dark"/>
 
 </div>
 
