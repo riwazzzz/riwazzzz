@@ -30,17 +30,28 @@
 
 ---
 
-## Hey, I'm Riwaz
+## About Me
+
+<table>
+  <tr>
+    <td valign="top" width="75%">
 
 I'm a second-year B.Sc. CSIT student at St. Xavier's College, Kathmandu, working toward a career in **data engineering**. I enjoy building data pipelines, wrangling messy datasets, and training models on real-world problems.
 
----
+<br/>
 
-## About Me
+**Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Kathmandu
 
-- Pursuing **B.Sc. CSIT** at St. Xavier's College, Kathmandu
-- Goal: Break into **data engineering** — pipelines, warehouses, and scalable data systems
-- Learning: **Apache Spark, Airflow, dbt, Kafka**
+**Focus:** Data Engineering & Machine Learning
+
+**Learning:** Apache Spark, Airflow, dbt, Kafka
+
+  </td>
+    <td valign="top" align="center" width="25%">
+      <img src="assets/about.png" width="180" alt="pixel art"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
