@@ -8,19 +8,23 @@
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/riwazmahat/">
+<a href="https://github.com/riwazzzz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/riwazmahat/" style="text-decoration:none">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://medium.com/@riwazzz">
+<a href="https://medium.com/@riwazzz" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:riwazmahat@gmail.com">
+<a href="mailto:riwazmahat@gmail.com" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/riwazmahat">
+<a href="https://www.kaggle.com/riwazmahat" style="text-decoration:none">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
@@ -133,9 +137,11 @@ I'm currently studying B.Sc. CSIT at St. Xavier's College, Maitighar, working to
 ## Contribution Activity
 
 <br/>
+
 <div align="center">
   <img src="github-metrics.svg?raw=true" alt="GitHub Metrics"/>
 </div>
+
 <br/>
 
 ---
