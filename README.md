@@ -133,11 +133,9 @@ I'm currently studying B.Sc. CSIT at St. Xavier's College, Maitighar, working to
 ## Contribution Activity
 
 <br/>
-
 <div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="github-metrics.svg?raw=true" alt="GitHub Metrics"/>
 </div>
-
 <br/>
 
 ---
