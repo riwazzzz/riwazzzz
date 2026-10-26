@@ -40,7 +40,7 @@ I'm currently studying B.Sc. CSIT at St. Xavier's College, Maitighar, working to
 
 <br/>
 
-**Academic:** 2nd Year B.Sc. CSIT at St. Xavier's College, Maitighar
+**Academic:** 3rd Year B.Sc. CSIT at St. Xavier's College, Maitighar
 
 **Focus:** Data Engineering & AI/ML
 
